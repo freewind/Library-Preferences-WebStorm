@@ -1,0 +1,965 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/shuzu-org-generator" />
+        <option value="$USER_HOME$/workspace/shuzu-org-generator/website" />
+        <option value="$USER_HOME$/workspace/shuzu-org-generator/data-generator" />
+        <option value="$USER_HOME$/workspace/vue-typescript-build-demo" />
+        <option value="$USER_HOME$/workspace/webstorm-typescript-lodash-completion-issue-demo" />
+        <option value="$USER_HOME$/workspace/js-open-url-in-new-window-demo" />
+        <option value="$USER_HOME$/workspace/vue-typescript-watch-demo" />
+        <option value="$USER_HOME$/workspace/typescript-optional-property-type-demo" />
+        <option value="$USER_HOME$/workspace/typescript-optional-type-demo" />
+        <option value="$USER_HOME$/workspace/typescript-variable-with-question-mark-demo" />
+        <option value="$USER_HOME$/workspace/vue-typescript-keydown-demo" />
+        <option value="$USER_HOME$/workspace/vue-typescript-passing-properties-to-component-demo" />
+        <option value="$USER_HOME$/workspace/typescript-class-parameter-properties-demo" />
+        <option value="$USER_HOME$/workspace/typescript-call-getter-in-method-demo" />
+        <option value="$USER_HOME$/workspace/vue-typescript-getter-computed-once-demo" />
+        <option value="$USER_HOME$/workspace/vue-typescript-prop-computed-demo" />
+        <option value="$USER_HOME$/workspace/typescript-type-of-for-in-demo" />
+        <option value="$USER_HOME$/workspace/javascript-split-by-regex-with-capture-group-demo" />
+        <option value="$USER_HOME$/workspace/javascript-split-by-the-first-only-using-regex-demo" />
+        <option value="$USER_HOME$/workspace/javascript-split-by-string-with-regex-demo" />
+        <option value="$USER_HOME$/workspace/javascript-lodash-split-by-string-demo" />
+        <option value="$USER_HOME$/workspace/javascript-compare-strings-demo" />
+        <option value="$USER_HOME$/workspace/nodejs-hello-world-demo" />
+        <option value="$USER_HOME$/workspace/typescript-import-json-file-demo" />
+        <option value="$USER_HOME$/workspace/typescript-lodash-import-all-demo" />
+        <option value="$USER_HOME$/workspace/typescript-function-return-nullable-value-demo" />
+        <option value="$USER_HOME$/workspace/typescript-break-for-of-demo" />
+        <option value="$USER_HOME$/workspace/typescript-for-loop-demo" />
+        <option value="$USER_HOME$/workspace/typescript-mocha-testing-demo" />
+        <option value="$USER_HOME$/workspace/typescript-string-interpolation-demo" />
+        <option value="$USER_HOME$/workspace/typescript-function-return-multi-values-demo" />
+        <option value="$USER_HOME$/workspace/typescript-tuple-demo" />
+        <option value="$USER_HOME$/workspace/typescript-check-value-null-undefined-demo" />
+        <option value="$USER_HOME$/workspace/typescript-check-value-is-instance-of-class-demo" />
+        <option value="$USER_HOME$/workspace/typescript-function-return-two-types-demo" />
+        <option value="$USER_HOME$/workspace/typescript-base-demo" />
+        <option value="$USER_HOME$/workspace/typescript-check-value-is-boolean-demo" />
+        <option value="$USER_HOME$/workspace/typescript-tsconfig-demo" />
+        <option value="$USER_HOME$/workspace/typescript-string-includes-demo" />
+        <option value="$USER_HOME$/workspace/typescript-json-as-class-demo" />
+        <option value="$USER_HOME$/workspace/typescript-json-to-class-demo" />
+        <option value="$USER_HOME$/workspace/typescript-import-json-file-with-type-demo" />
+        <option value="$USER_HOME$/workspace/vue-typescript-import-json-file-with-type-demo" />
+        <option value="$USER_HOME$/workspace/wuya-demos/spaceship-game" />
+        <option value="$USER_HOME$/workspace/my-blog" />
+        <option value="$USER_HOME$/workspace/wuya-demos/html-canvas-draw-image-demo" />
+        <option value="$USER_HOME$/workspace/wuya-demos/html-canvas-show-text-demo" />
+        <option value="$USER_HOME$/workspace/wuya-demos/html-canvas-check-two-squares-crash-demo" />
+        <option value="$USER_HOME$/workspace/wuya-demos/html-canvas-square-move-from-left-to-right-demo" />
+        <option value="$USER_HOME$/workspace/wuya-demos/html-canvas-move-square-by-arrow-keys-demo" />
+      </list>
+    </option>
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/workspace/html-play-mp4-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533883323781" />
+              <option name="buildTimestamp" value="1532074226110" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/html-record-voice-from-microphone-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533916316070" />
+              <option name="buildTimestamp" value="1532074226110" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/javascript-compare-strings-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535351605258" />
+              <option name="buildTimestamp" value="1534833088685" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/javascript-lodash-split-by-string-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535352173026" />
+              <option name="buildTimestamp" value="1534833088685" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/javascript-split-by-regex-with-capture-group-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535354812436" />
+              <option name="buildTimestamp" value="1534833088685" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/javascript-split-by-string-with-regex-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535353460838" />
+              <option name="buildTimestamp" value="1534833088685" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/javascript-split-by-the-first-only-using-regex-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535354669179" />
+              <option name="buildTimestamp" value="1534833088685" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/js-demo/vue-typescript-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533830193351" />
+              <option name="buildTimestamp" value="1532074233731" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/js-open-url-in-new-window-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535377410272" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/my-blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534138071088" />
+              <option name="buildTimestamp" value="1532074228419" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/nodejs-hello-world-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535342351097" />
+              <option name="buildTimestamp" value="1534833088685" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/shuzu-org-generator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535447980002" />
+              <option name="buildTimestamp" value="1534833118271" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/shuzu-org-generator/data-generator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535445085261" />
+              <option name="buildTimestamp" value="1534833119761" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/shuzu-org-generator/website">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535447293317" />
+              <option name="buildTimestamp" value="1534833119761" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-base-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535212977562" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-break-for-of-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535281532263" />
+              <option name="buildTimestamp" value="1534833086458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-call-getter-in-method-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535359200212" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-check-value-is-boolean-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535212974847" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-check-value-is-instance-of-class-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535213586319" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-check-value-null-undefined-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535214736300" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-class-parameter-properties-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535359856671" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-demos/typescript-compile-typescript-to-javascript-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533724004191" />
+              <option name="buildTimestamp" value="1532074224998" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-demos/typescript-definite-assignment-assertion-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533832745853" />
+              <option name="buildTimestamp" value="1532074217996" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-demos/typescript-dts-gen-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533725220227" />
+              <option name="buildTimestamp" value="1532074224998" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-demos/typescript-generate-type-definition-file-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533724307090" />
+              <option name="buildTimestamp" value="1532074224998" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-demos/typescript-hello-world-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533832775143" />
+              <option name="buildTimestamp" value="1532074217996" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-demos/typescript-import-definiation-only-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533728327416" />
+              <option name="buildTimestamp" value="1532074224998" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-demos/typescript-import-type-definitions-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533718996550" />
+              <option name="buildTimestamp" value="1532074200807" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-demos/typescript-module-export-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533726534999" />
+              <option name="buildTimestamp" value="1532074224998" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-demos/typescript-triple-slash-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533737534399" />
+              <option name="buildTimestamp" value="1532074224998" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-demos/typescript-tsconfig-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533738915631" />
+              <option name="buildTimestamp" value="1532074256380" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-extension-method-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533380874564" />
+              <option name="buildTimestamp" value="1532074216435" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-for-loop-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535274914676" />
+              <option name="buildTimestamp" value="1534833086458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-function-return-multi-values-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535272634856" />
+              <option name="buildTimestamp" value="1534833086458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-function-return-nullable-value-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535282512774" />
+              <option name="buildTimestamp" value="1534833086458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-function-return-two-types-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535213184069" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-import-json-file-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535289034806" />
+              <option name="buildTimestamp" value="1534833068462" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-import-json-file-with-type-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535210801187" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-json-as-class-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535211161404" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-json-to-class-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535211008248" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-lodash-import-all-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535286422677" />
+              <option name="buildTimestamp" value="1534833112199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-mocha-testing-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535273955744" />
+              <option name="buildTimestamp" value="1534833086458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-nested-object-literal-with-types-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533446508326" />
+              <option name="buildTimestamp" value="1532074256958" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-optional-property-type-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535375213771" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-optional-type-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535375016742" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-string-includes-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535212100727" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-string-interpolation-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535273131819" />
+              <option name="buildTimestamp" value="1534833086458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-tsconfig-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535212519222" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-tuple-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535272342118" />
+              <option name="buildTimestamp" value="1534833086458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-type-of-for-in-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535355814342" />
+              <option name="buildTimestamp" value="1534833088685" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/typescript-variable-with-question-mark-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535374905016" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-bind-class-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533874725278" />
+              <option name="buildTimestamp" value="1532074226110" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-bind-value-to-tag-attribute-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533833120195" />
+              <option name="buildTimestamp" value="1532074217996" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-code-puzzle-component">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533878641228" />
+              <option name="buildTimestamp" value="1532074226110" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-for-each-with-different-tag-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533828166965" />
+              <option name="buildTimestamp" value="1532074250132" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-invoke-helper-function-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533834716218" />
+              <option name="buildTimestamp" value="1532074233593" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-modify-array-object-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533883926084" />
+              <option name="buildTimestamp" value="1532074226110" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-typescript-build-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535444974064" />
+              <option name="buildTimestamp" value="1534833119761" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-typescript-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533874774526" />
+              <option name="buildTimestamp" value="1532074226110" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-typescript-getter-computed-once-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535358032812" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-typescript-import-json-file-with-type-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535200933838" />
+              <option name="buildTimestamp" value="1534833091925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-typescript-keydown-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535374116220" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-typescript-passing-properties-to-component-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535361192413" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-typescript-prop-computed-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535357922960" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vue-typescript-watch-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535376448024" />
+              <option name="buildTimestamp" value="1534833079802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/webstorm-typescript-lodash-completion-issue-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4129.32" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535443071571" />
+              <option name="buildTimestamp" value="1534833070354" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-canvas-check-two-squares-crash-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533997989932" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-canvas-clear-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533993473935" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-canvas-draw-a-line-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533990122704" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-canvas-draw-a-square-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533990437950" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-canvas-draw-image-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534007614436" />
+              <option name="buildTimestamp" value="1532074245137" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-canvas-draw-square-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533981129548" />
+              <option name="buildTimestamp" value="1532074239400" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-canvas-fill-a-square-with-red-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533990678535" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-canvas-move-square-by-arrow-keys-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533993819411" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-canvas-show-text-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534000554688" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-canvas-square-move-from-left-to-right-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533995506627" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-hello-world-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533991803406" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-import-css-js-files-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533991223300" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/html-import-js-css-files-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533982669028" />
+              <option name="buildTimestamp" value="1532074239400" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/js-capture-keypress-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533992701988" />
+              <option name="buildTimestamp" value="1532074231634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuya-demos/spaceship-game">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534165524609" />
+              <option name="buildTimestamp" value="1532074208593" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wuyacode">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.3684.70" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533827390080" />
+              <option name="buildTimestamp" value="1532074250132" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,27 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.25768667" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="INSPECTION_FILTER_HISTORY" value="terminate statements with semicolons'" />
+    <property name="KEYMAP" value="clone caret" />
+    <property name="PLUGIN_FILTER" value="markdown na&#10;markdown" />
+    <property name="SettingsSearchHistory" value="libr&#10;librar&#10;memory&#10;Libra&#10;comple" />
+    <property name="SplitFileEditor.Proportion" value="0.43615422" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt.182" value="1659f0ce4ee" />
+    <property name="evlsprt2.182" value="16570391338" />
+    <property name="evlsprt3.182" value="19" />
+    <property name="file.gist.reindex.count" value="43793" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="js.extract.function.global.scope.was.selected" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="selected.color.option.type" value="COFFEESCRIPT.JAVASCRIPT_CONTENT" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Punctuation" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Punctuation" />
+    <property name="ts.lib.d.ts.version" value="3.0.1" />
+  </component>
+</application>

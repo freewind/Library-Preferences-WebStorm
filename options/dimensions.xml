@@ -1,0 +1,25 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1319" y="583" />
+    <location key="SettingsEditor.0.0.2560.1440" x="605" y="198" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.2560.1440" x="901" y="45" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2560.1440" x="1059" y="542" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.2560.1440" x="1058" y="485" />
+    <location key="#Browse_Repositories.0.0.2560.1440" x="908" y="393" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.2560.1440" x="457" y="634" />
+    <location key="#Inspections.0.0.2560.1440" x="960" y="412" />
+    <location key="jetbrains.javascript.buildTools.run-task-popup.0.0.2560.1440" x="1190" y="595" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.2560.1440" x="773" y="369" />
+    <location key="StructurePopup.0.0.2560.1440" x="429" y="156" />
+    <location key="CommitChangelistDialog2.0.0.2560.1440" x="365" y="192" />
+    <location key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.2560.1440" x="493" y="426" />
+    <size key="jetbrains.javascript.buildTools.run-task-popup.0.0.2560.1440" width="259" height="278" />
+    <size key="StructurePopup.0.0.2560.1440" width="537" height="443" />
+    <size key="CommitChangelistDialog2.0.0.2560.1440" width="754" height="377" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2459" height="411" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2459" height="411" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2459" height="411" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2459" height="411" />
+    <size key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.2560.1440" width="1270" height="426" />
+  </component>
+</application>
