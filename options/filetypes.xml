@@ -1,8 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="pcss" type="CSS" />
+      <mapping pattern="Gruntfile" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="hello" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

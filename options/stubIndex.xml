@@ -2,6 +2,30 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="markdown.referenceable-text.index" />
+        <option value="markdown.plain-text-element.index" />
+        <option value="markdown.link-element.index" />
+        <option value="markdown.flexmark.example.option.index" />
+        <option value="vue.local.directives.index" />
+        <option value="vue.global.directives.index" />
+        <option value="vue.extends.binding.index" />
+        <option value="vue.mixin.binding.index" />
+        <option value="vue.options.index" />
+        <option value="vue.components.index" />
+        <option value="jade.mixin" />
+        <option value="Stylus.mixins" />
+        <option value="Stylus.variables" />
+        <option value="Scss.mixin" />
+        <option value="Scss.function" />
+        <option value="Scss.placeholder.selector" />
+        <option value="Scss.variable" />
+        <option value="Less.variables" />
+        <option value="Less.mixins" />
+        <option value="angularjs.delimiter.index" />
+        <option value="angularjs.generic.modules.index" />
+        <option value="angularjs.ui.router.generic.states.index" />
+        <option value="angularjs.ui.router.states.index" />
+        <option value="angularjs.symbol.index" />
         <option value="angularjs.filter.index" />
         <option value="angularjs.module.index" />
         <option value="angularjs.controller.index" />
@@ -42,26 +66,6 @@
         <option value="Css.ampersand.selector" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
-        <option value="vue.local.directives.index" />
-        <option value="vue.global.directives.index" />
-        <option value="vue.extends.binding.index" />
-        <option value="vue.mixin.binding.index" />
-        <option value="vue.options.index" />
-        <option value="vue.components.index" />
-        <option value="jade.mixin" />
-        <option value="Stylus.mixins" />
-        <option value="Stylus.variables" />
-        <option value="Scss.mixin" />
-        <option value="Scss.function" />
-        <option value="Scss.placeholder.selector" />
-        <option value="Scss.variable" />
-        <option value="Less.variables" />
-        <option value="Less.mixins" />
-        <option value="angularjs.delimiter.index" />
-        <option value="angularjs.generic.modules.index" />
-        <option value="angularjs.ui.router.generic.states.index" />
-        <option value="angularjs.ui.router.states.index" />
-        <option value="angularjs.symbol.index" />
       </list>
     </option>
   </component>

@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1319" y="583" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="734" y="523" />
     <location key="SettingsEditor.0.0.2560.1440" x="605" y="198" />
     <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.2560.1440" x="901" y="45" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2560.1440" x="1059" y="542" />
@@ -13,13 +13,30 @@
     <location key="StructurePopup.0.0.2560.1440" x="429" y="156" />
     <location key="CommitChangelistDialog2.0.0.2560.1440" x="365" y="192" />
     <location key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.2560.1440" x="493" y="426" />
+    <location key="find.popup.0.0.2560.1440" x="1127" y="158" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="784" y="393" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="510" y="454" />
     <size key="jetbrains.javascript.buildTools.run-task-popup.0.0.2560.1440" width="259" height="278" />
     <size key="StructurePopup.0.0.2560.1440" width="537" height="443" />
-    <size key="CommitChangelistDialog2.0.0.2560.1440" width="754" height="377" />
-    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2459" height="411" />
-    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2459" height="411" />
-    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2459" height="411" />
-    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2459" height="411" />
+    <size key="CommitChangelistDialog2.0.0.2560.1440" width="1228" height="810" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2459" height="504" />
     <size key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.2560.1440" width="1270" height="426" />
+    <size key="find.popup.0.0.2560.1440" width="703" height="639" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.3.left.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.3.center.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.3.right.0.0.2560.1440" width="2459" height="504" />
+    <size key="GridCell.Tab.3.bottom.0.0.2560.1440" width="2459" height="504" />
+    <size key="SettingsEditor.0.0.2560.1440" width="1144" height="696" />
   </component>
 </application>
